@@ -1,0 +1,1 @@
+ALTER TABLE employee  ADD COLUMN bytebase_test varchar(15);
